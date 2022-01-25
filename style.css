@@ -42,7 +42,20 @@
 display: flex;
 gap: 1rem;
 align-items: center;
+position: relative;
 
+}
+/* tint */
+.img-tint{
+    width: 21.875rem;
+    height:6.875rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+.img-tint:hover{
+    background-color:rgba(68, 67, 67, 0.08);
 }
 /* image */
 .image-box{
