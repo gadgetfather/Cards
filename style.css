@@ -55,7 +55,7 @@ position: relative;
     background-color: rgba(0, 0, 0, 0);
 }
 .img-tint:hover{
-    background-color:rgba(68, 67, 67, 0.08);
+    background-color:rgba(255, 0, 0, 0.931);
 }
 /* image */
 .image-box{
